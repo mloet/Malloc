@@ -1,0 +1,125 @@
+commit 9322ada7ba3dca434c460aa3e1b209d9e751548e (HEAD -> master, origin/master, origin/HEAD)
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Wed May 20 14:17:12 2020 -0400
+
+    I give up 
+
+commit 2b7d6ec52d6a63ce948cdef6e0184230e04d45a0
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Wed May 20 11:10:55 2020 -0400
+
+    Still trying to find possible segfaults
+
+commit 19f9ac0566f439057b363c1bd7c9de454053b6fc
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Wed May 20 11:05:49 2020 -0400
+
+    Trying to find segfault errors
+
+commit cd20576026aee4026eee52d70b62ea3de685f903
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Wed May 20 11:04:42 2020 -0400
+
+    Updated spinlock
+
+commit f6daf76fb53222fe2956e334796dea3783628c39
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Wed May 20 10:03:00 2020 -0400
+
+    Added helpers for debugging/organization
+
+commit 345e17e8541c217a4e199b89ee6595be40b48773
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Tue May 19 15:56:31 2020 -0400
+
+    Added helpers to organize code and make finding errors easier
+
+commit e1d256fa016a99f12516c5266e7d5524f636cb5d
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Mon May 18 20:53:37 2020 -0400
+
+    Removed prints
+
+commit b3692e3a15d8865a07db96b5784bf7dd76e882d0
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Sun May 17 10:39:56 2020 -0400
+
+    Looking for errors
+
+commit 50a0bba3c0f3a165f1d444830bdfc756ad261531
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Sun May 17 10:38:37 2020 -0400
+
+    Broken malloc tests
+
+commit b6b4be125fe03e8fe275f565297b43394eec31e8
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Sun May 17 10:36:33 2020 -0400
+
+    Trying to catch last broken malloc for spec tests
+
+commit 589b35564aae099ab8324fbd723762f28c322e65
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Sun May 17 00:35:59 2020 -0400
+
+    More prints
+
+commit dd1801d2c5f09397fa34eb1e4070398b70f998e2
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Sun May 17 00:34:28 2020 -0400
+
+    Small fix to alloc
+
+commit 706e65b71b57c962cb7a1fbcbcd2657a89533402
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Sun May 17 00:12:09 2020 -0400
+
+    Added debug print statements
+
+commit af74a737a7189ac2b093ca038c1389d1d7ac7d41
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Sun May 17 00:08:45 2020 -0400
+
+    Trying to fix errors
+
+commit 34e957ba7ceae152582f85fc55b653f951b1f71f
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Sat May 16 23:58:13 2020 -0400
+
+    More tests
+
+commit 4e99b187897a724803756277d43d991e78f02ae8
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Sat May 16 21:54:06 2020 -0400
+
+    Worked on hl_resize
+
+commit f6d8a91beb56cf463b0fa844bdc5ba1bf53c7c4f
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Fri May 15 20:53:24 2020 -0400
+
+    Worked on hl_resize
+
+commit 65b8b3a6b790030c8d13b9de64a716c6758a85c5
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Wed May 13 23:42:58 2020 -0400
+
+    Working on resize
+
+commit 6d13b5db77dcffa76ded55da820cd6fd1cb8dd4b
+Author: Maxwell Loetscher <mjl258@cornell.edu>
+Date:   Wed May 13 23:18:34 2020 -0400
+
+    Added some resize tests
+
+commit 15094d5c8ae3e298ceb48f567717e3326b0083d2
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Wed May 13 23:17:42 2020 -0400
+
+    Added some spec tests
+
+commit 97259f7f43fba446f8ef6d69455d37e6a5de2416
+Author: Matthew Fusco <mjf328@cornell.edu>
+Date:   Tue May 12 22:17:01 2020 -0400
+
+    Started using git
